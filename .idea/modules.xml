@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GsonExample/GsonExample.iml" filepath="$PROJECT_DIR$/GsonExample/GsonExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GsonExampleProject.iml" filepath="$PROJECT_DIR$/GsonExampleProject.iml" />
+    </modules>
+  </component>
+</project>
+

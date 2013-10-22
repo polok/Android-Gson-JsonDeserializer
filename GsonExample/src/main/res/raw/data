@@ -1,0 +1,27 @@
+{
+ "Events":
+ [
+ {
+ "value": "some value 1",
+ "g":
+    [
+        {
+            "label":"Array Label 1",
+            "txt" : "Array  text 1"
+        },
+        {
+            "label":"Array  label 2",
+            "txt" : "Array  text 2"
+        }
+    ]
+ },
+ {
+ "value": "some value 2",
+ "g":
+    {
+        "label":"Object label",
+        "txt" : "Object text"
+    }
+ }
+ ]
+}
